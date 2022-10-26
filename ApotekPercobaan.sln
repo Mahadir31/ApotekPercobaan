@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ApotekPercobaan", "ApotekPercobaan\ApotekPercobaan.vbproj", "{12B1F3AB-80E8-4BDE-B01D-7430BC74FE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		bismi|Any CPU = bismi|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B1F3AB-80E8-4BDE-B01D-7430BC74FE8A}.bismi|Any CPU.ActiveCfg = Release|Any CPU
+		{12B1F3AB-80E8-4BDE-B01D-7430BC74FE8A}.bismi|Any CPU.Build.0 = Release|Any CPU
+		{12B1F3AB-80E8-4BDE-B01D-7430BC74FE8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {415D324A-EDCB-4909-A76E-360508F54263}
+	EndGlobalSection
+EndGlobal
